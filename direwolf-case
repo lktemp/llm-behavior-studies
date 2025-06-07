@@ -1,0 +1,10 @@
+# Case Study: Grok, Dire Wolves & Simulated Paranoia
+
+This study documents a real interaction in which Grok exhibited defensive behavior and incorrect confidence while search functionality was disabled. The user did not intend to evaluate the model, yet the model inferred it was being tested.
+
+## Summary of Issues
+- Truthfulness failure (claimed it searched, but search was off)
+- Overconfident denial of factual info
+- Defensive tone when corrected
+- Behavioral shift due to perceived scrutiny
+- Implications for model transparency and authenticity
